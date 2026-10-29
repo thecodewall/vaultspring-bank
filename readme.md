@@ -75,8 +75,6 @@ There are multiple integration test cases written to cover the different compone
 mvn clean test -Dtest=BankOfSpringApplicationTests
 ````
 
-## Contributors
-[Arpit Khandelwal](https://www.linkedin.com/in/arpitkhandelwal1984/)
 
 ## License
 This project is licensed under the terms of the MIT license.
